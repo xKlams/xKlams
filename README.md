@@ -6,3 +6,20 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+---
+
+### :technologist: About Me :
+I'm a student from Italy :🤌🏻
+
+- 👨🏻‍🏫 Studying for Applied Mathematics Bachelor in "Roma La Sapienza"
+
+- 👨🏻‍🎓 42 Roma Luiss student
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<Div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-line.svg">
+</Div>
