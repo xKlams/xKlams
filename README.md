@@ -14,7 +14,7 @@ I'm a student from Italy :🤌🏻
 
 - 👨🏻‍🎓 42 Roma Luiss student
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federico-de-sisti-4b1782181/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-de-sisti-4b1782181/)
 
 ---
 
