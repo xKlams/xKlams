@@ -10,7 +10,7 @@
 ### :technologist: About Me :
 I'm a student from Italy :🤌🏻
 
-- 👨🏻‍🏫 Studying for Applied Mathematics Bachelor at "Roma La Sapienza"
+- 👨🏻‍🏫 Studying for Applied Mathematics Bachelor at "Sapienza Università di Roma"
 
 - 👨🏻‍🎓 42 Roma Luiss student
 
