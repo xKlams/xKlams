@@ -8,7 +8,7 @@
 </div>
 
 ### :technologist: About Me :
-I'm a student from Italy :🤌🏻
+I'm a student from Italy :
 
 - 👨🏻‍🏫 Studying for Applied Mathematics Bachelor at "Sapienza Università di Roma"
 
